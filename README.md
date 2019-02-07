@@ -1,5 +1,5 @@
 # MEAN-STACK-CRUD
-### A MEAN stack (MongoDB, Express, Angular 6, Node.js)app developed using MVC architecture design pattern 
+### A MEAN stack (MongoDB, Express, Angular 6, Node.js) app developed using MVC architecture design pattern 
 ## Technologies Used
 node.js,<br>
 express.js,<br>
